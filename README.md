@@ -69,6 +69,7 @@ Best Learning Platforms:
 - [The Odin Project - Full Stack Path](https://www.theodinproject.com/)
 - [Node.js Official Documentation](https://nodejs.org/)
 - [Codecademy - Learn Python](https://www.codecademy.com/learn/learn-python-3)
+- [Codecrafter - Build real time projects](https://app.codecrafters.io/r/tender-skunk-886099)
 
 ### Backend Frameworks to Learn
 - **Express.js** (For Node.js)
@@ -107,7 +108,7 @@ Best Practice Platforms:
 - [LeetCode](https://leetcode.com/)
 - [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-algorithms)
 - [GeeksforGeeks - DSA Guide](https://www.geeksforgeeks.org/data-structures/)
-
+- [Codecrafters - Software Engineering Practive](https://app.codecrafters.io/r/tender-skunk-886099)
 ---
 
 ## 6️⃣ System Design & Scalability 🏢
